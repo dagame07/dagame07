@@ -47,7 +47,7 @@ Les presento el proyecto más grande en el que he contribuido
 
 ## 🎨 Fuera del código
 
-Algunos hobbies que encantan
+Algunos hobbies que me encantan
   📖 Leer novelas (romance, crímenes policiacos, dramas, comedias)
   🎮 Jugar videojuegos
   🖌️ Pintar
@@ -59,7 +59,7 @@ Algunos hobbies que encantan
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/denissegarzas)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denisse.garzas07@gmail.com)
 
-🔭 Actualmente buscando oportunidades para meter las manos en proyectos con equipos multidisiplinarios. 
+🔭 Actualmente buscando oportunidades para colaborar en proyectos con equipos multidisiplinarios. 
 
 ---
 ⭐ *No lo se aún, pero ahora lo aprendo* ⭐
