@@ -1,6 +1,6 @@
 <p align="center">
   <!--<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=Hi+there!+ヾ(≧▽≦*)o;Welcome+to+myGitHub+account!;I'm+Denisse+Garza;ヾ(⌒∇⌒*)See You♪">-->
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&weight=900&size=30&pause=1000&color=F71362&width=600&lines=Hi+there!+%E3%83%BE%28%E2%89%A7%E2%96%BD%E2%89%A6%2A%29o;Welcome+to+my+GitHub+account!;I%27m+Denisse+Garza;%E3%83%BE%28%E2%8C%92%E2%88%87%E2%8C%92%2A%29+See+You%E2%99%AA" alt="Texto animado de bienvenida">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&weight=900&size=30&pause=1000&color=F71362&width=600&lines=Hi+there!+%E3%83%BE%28%E2%89%A7%E2%96%BD%E2%89%A6%2A%29o;Welcome+to+my+GitHub+account!;I%27m+Denisse+Garza;%E3%83%BE%28%E2%8C%92%E2%88%87%E2%8C%92%2A%29+See+You%E2%99%AA" alt="Texto animado de bienvenida">
 </p>
 
 
@@ -8,7 +8,9 @@
   <img src="https://tenor.com/es-US/view/hi-hello-hoi-bonjour-konichiwa-gif-26376023" height="200" />
   <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 </p>-->
-<img align="center" width="300" alt="Hello gif" src="https://media.tenor.com/kYPRMo-va6gAAAAj/hi-hello.gif" /> 
+<p align="center">
+  <img width="300" alt="Hello gif" src="https://media.tenor.com/kYPRMo-va6gAAAAj/hi-hello.gif" /> 
+</p>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***Sobre mí***
 
