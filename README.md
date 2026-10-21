@@ -50,8 +50,8 @@ Les presento el proyecto más grande en el que he contribuido
 ## 🎨 Fuera del código
 
 Algunos hobbies que me encantan
-- 📖 Leer novelas (algunos de mis favs: A wicked tale of cinderella's stepmom, Asesinato en el Orient Express)
-- 🎮 Jugar videojuegos (mi favorito TLOZ: WW HD )
+- 📖 Leer novelas (algunos de mis favs: *A wicked tale of cinderella's stepmom, Asesinato en el Orient Express*)
+- 🎮 Jugar videojuegos (mi favorito *TLOZ: WW HD* )
 - 🖌️ Pintar
 - 🎵 Escuchar música
 - 🧁 Hornear
@@ -64,7 +64,7 @@ Algunos hobbies que me encantan
 🔭 Actualmente buscando oportunidades para colaborar en proyectos con equipos multidisiplinarios. 
 
 ---
-⭐ *No lo se aún, pero ahora lo aprendo* ⭐
+<p align="center"> ⭐ <em>No lo se aún, pero ahora lo aprendo</em> ⭐</p>
 
 <!--
 **dagame07/dagame07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
