@@ -21,7 +21,7 @@ Me encanta aprender cosas nuevas y participar en proyectos que enriquezcan mi co
 ## 🛠️ Tecnologías
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,css,js" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,postman,css,js" alt="Tecnologías" />
 </p>
 
 ## 🚀 Proyectos destacados
@@ -38,21 +38,23 @@ Les presento el proyecto más grande en el que he contribuido
   - CSS
   - HTML
   - MySQL
+    
 
 ## 🌱 Actualmente aprendiendo
 
 - C++
 - Spring Security
 - Pruebas unitarias
+  
 
 ## 🎨 Fuera del código
 
 Algunos hobbies que me encantan
-  📖 Leer novelas (romance, crímenes policiacos, dramas, comedias)
-  🎮 Jugar videojuegos
-  🖌️ Pintar
-  🎵 Escuchar música
-  🧁 Hornear
+- 📖 Leer novelas (algunos de mis favs: A wicked tale of cinderella's stepmom, Asesinato en el Orient Express)
+- 🎮 Jugar videojuegos (mi favorito TLOZ: WW HD )
+- 🖌️ Pintar
+- 🎵 Escuchar música
+- 🧁 Hornear
 
 ## 📫 Contacto
 
