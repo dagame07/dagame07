@@ -51,7 +51,7 @@ Les presento el proyecto más grande en el que he contribuido
 
 Algunos hobbies que me encantan
 - 📖 Leer novelas (algunos de mis favs: *A wicked tale of cinderella's stepmom, Asesinato en el Orient Express*)
-- 🎮 Jugar videojuegos (mi favorito *TLOZ: WW HD* )
+- 🎮 Jugar videojuegos (mi favoritos *TLOZ: WW HD*, *SMG* )
 - 🖌️ Pintar
 - 🎵 Escuchar música
 - 🧁 Hornear
